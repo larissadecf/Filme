@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="detalhe_txt_direcao" type="id" />
+    <item name="detalhe_txt_nomeFilme" type="id" />
+    <item name="detalhe_foto_filme" type="id" />
+    <item name="detalhe_txt_id" type="id" />
+    <item name="detalhe_txt_lancamento" type="id" />
+</resources>

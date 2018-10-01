@@ -2,4 +2,9 @@
     <string name="app_name">Filme</string>
     <string name="dica_busca">nome do filme</string>
     <string name="btn_busca">Buscar</string>
+    <string name="detalhe_nome">nome:</string>
+    <string name="detalhe_">fone:</string>
+    <string name="detalhe_email">e-mail:</string>
+    <string name="detalhe_direcao" />
+    <string name="detalhe_lancamento" />
 </resources>
